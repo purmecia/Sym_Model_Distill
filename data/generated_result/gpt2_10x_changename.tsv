@@ -1,0 +1,500 @@
+Alice finds and turns on the lights  HinderedBy  [GEN]	Alice can't find the switch
+Alice stops someone from leaving  xAttr  [GEN]	considerate
+Alice is bent on making money  xIntent  [GEN]	to be financially independent
+Alice explains a feeling  xEffect  [GEN]	feels better
+Alice joins her employer  xReact  [GEN]	pleased
+Alice ends her engagement  xEffect  [GEN]	is unhappy
+Alice cancels the festival  xReact  [GEN]	upset
+Alice loves flowers  xReact  [GEN]	full
+Alice demonstrates a new golf swing  xNeed  [GEN]	to be in shape
+Alice blocks his foot  xEffect  [GEN]	is paralyzed
+Alice is careless in sending a letter  xReact  [GEN]	frustrated
+Alice offers a peace-making gift  HinderedBy  [GEN]	Alice is too busy to give a present
+Alice receives a job promotion  xNeed  [GEN]	to apply for the job
+Alice blocks Bob's Facebook account  xIntent  [GEN]	to help Bob
+Alice discusses an issue with Bob  HinderedBy  [GEN]	Alice is unable to talk about the issue
+Alice keeps in contact with Bob  xEffect  [GEN]	gets along with Bob better
+Alice makes a play  xReact  [GEN]	joyful
+Alice takes up painting  xReact  [GEN]	happy
+Alice loses the argument  xReact  [GEN]	upset
+Alice flosses teeth  xEffect  [GEN]	is healthy
+Alice touches up the living room  xReact  [GEN]	pleased
+Alice gets in the driver's seat  xReact  [GEN]	relieved
+Alice follows Bob’s every move  xIntent  [GEN]	to be sure Bob is doing his homework
+Alice contemplates human nature  HinderedBy  [GEN]	Alice can't think of anything to do
+Alice is saving his money  xIntent  [GEN]	to save money
+Alice wants to change his way of life  xReact  [GEN]	passionate
+Alice kept her promise  xReact  [GEN]	confident
+Alice is a conscientious student  xIntent  [GEN]	to make a good impression
+Alice wishes for strength  xReact  [GEN]	motivated
+Alice and Bob are punished  xAttr  [GEN]	disobedient
+Alice is back in touch with Bob  xEffect  [GEN]	is happy
+Alice seeks an audience  xIntent  [GEN]	to be recognized
+Alice is one of Bob's children  xAttr  [GEN]	a good father
+Alice gets a job in town  xAttr  [GEN]	competent
+Alice finds it rather hot  xWant  [GEN]	to cool off
+Alice does not speak  xIntent  [GEN]	to be left alone
+Alice learns to control her emotions  xEffect  [GEN]	becomes more friendly
+Alice never wants to hear that joke again  xEffect  [GEN]	laughs
+Alice swims in the rain  xIntent  [GEN]	to feel healthy
+Alice understands why Bob did what she did  xAttr  [GEN]	perceptive
+Alice repairs the window  xNeed  [GEN]	to have the tools
+Alice loses a project  xWant  [GEN]	to be promoted
+Alice believes in the freedom of choice  xReact  [GEN]	free
+Alice has fun with Bob's children  xReact  [GEN]	relaxed
+Alice remembers a time Bob got on her nerves  xReact  [GEN]	angry
+Alice tries to steal money  xWant  [GEN]	to be a thief
+Alice wanted to be a firefighter  xEffect  [GEN]	is a firefighter
+Alice jumps in with both feet  xWant  [GEN]	to leave
+Alice earns a dollar an hour  HinderedBy  [GEN]	Alice is a broke worker
+Alice lives by a schedule  xIntent  [GEN]	to meet his deadlines
+Alice gets a good mark on a test  HinderedBy  [GEN]	Alice is failing the test
+Alice just wants to share the news  xAttr  [GEN]	friendly
+Alice hates to sleep  xIntent  [GEN]	to be alone
+Alice meets a stranger on the street  xAttr  [GEN]	curious
+Alice gets in touch with an old friend  xReact  [GEN]	supported
+Alice lives in a special place  xIntent  [GEN]	to feel at home
+Alice serves as mediator  xReact  [GEN]	competent
+Alice meets the wrong person  xEffect  [GEN]	is punished
+Alice goes back to baking  xWant  [GEN]	to make more cookies
+Alice likes their photo  xIntent  [GEN]	to make a new picture
+Alice considers a new perspective  HinderedBy  [GEN]	Alice can't think of anything to change
+Alice tells someone  xReact  [GEN]	understood
+Alice learns to walk  xReact  [GEN]	relaxed
+Alice puts on headphones  xWant  [GEN]	to listen to music
+Alice tosses Bob up in the air  xIntent  [GEN]	to punish Bob
+Alice shares a photo with Bob  xIntent  [GEN]	to show Bob the truth
+Alice sells vegetables  HinderedBy  [GEN]	Alice doesn't have enough money
+Alice is among the strongest  xNeed  [GEN]	to do everything
+Alice does not want to sleep  xEffect  [GEN]	sleeps at night
+Alice refuses to volunteer to help at the hospital  xIntent  [GEN]	to show that he is not there to help
+Alice makes everyone walk through Bob's home  xIntent  [GEN]	to stop Bob from committing a crime
+Alice hits Bob in the stomach  xAttr  [GEN]	aggressive
+Alice leads Bob to God  xAttr  [GEN]	spiritual
+Alice and Bob chat about the old days  xEffect  [GEN]	and Bob have a new relationship
+Alice studies hard, unlike Bob  xIntent  [GEN]	to be a good student
+Alice meets a friend for dinner  xWant  [GEN]	to hang out with the friend
+Alice follows Bob in the park  xIntent  [GEN]	to talk to Bob
+Alice begins to learn to play the violin  xReact  [GEN]	inspired
+Alice wraps up Bob  xAttr  [GEN]	helpful
+Alice wants to attend the meeting  xNeed  [GEN]	to have an interest in meeting
+Alice demands the truth  HinderedBy  [GEN]	Alice is afraid to tell the police
+Alice has been elected as a member of the Senate  xReact  [GEN]	happy
+Alice argues with the police  xAttr  [GEN]	assertive
+Alice performs at the theatre  HinderedBy  [GEN]	Alice is afraid of performing
+Alice sees Bob in black clothes  HinderedBy  [GEN]	Alice doesn't know Bob
+Alice whips up a mob  xReact  [GEN]	guilty
+Alice has a strong, loyal dog  xAttr  [GEN]	a good friend
+Alice makes a quick trip  xIntent  [GEN]	to see the world
+Alice finds someone to blame  xAttr  [GEN]	confrontational
+Alice is eager to start right away  xReact  [GEN]	excited
+Alice changes language  xIntent  [GEN]	to communicate with other people
+Alice mentions the incident  xReact  [GEN]	upset
+Alice proves his love  HinderedBy  [GEN]	Alice is too busy to be romantic
+Alice works in the area  xIntent  [GEN]	to be self sufficient
+Alice commits to a cause  xAttr  [GEN]	good at his job
+Alice wants something  xEffect  [GEN]	gets something
+Alice buys a new camera  xEffect  [GEN]	has a better camera
+Alice writes a newsletter  xAttr  [GEN]	a good writer
+Alice is fashionable  HinderedBy  [GEN]	Alice is sick
+Alice succeeds in stopping smoking  xAttr  [GEN]	smart
+"Alice is voted ""Most Likely to Succeed""  xEffect  [GEN]"	gets a promotion
+Alice tries to be strong  HinderedBy  [GEN]	Alice is not strong
+Alice sways Bob  xReact  [GEN]	pleased
+Alice keeps on trying  HinderedBy  [GEN]	Alice is too tired to try
+Alice heads to a restaurant  xIntent  [GEN]	to have a good time
+Alice is elected to parliament  xReact  [GEN]	important
+Alice helps Bob realize  xReact  [GEN]	relieved
+Alice arrives early  xIntent  [GEN]	to be ready for school
+Alice says something optimistic  HinderedBy  [GEN]	Alice is afraid to say something positive
+Alice gets kicked out of the bathroom  xReact  [GEN]	ashamed
+Alice laughs happily  xEffect  [GEN]	is happy
+Alice is on the verge of giving up  xAttr  [GEN]	impatient
+Alice moves into a van  xAttr  [GEN]	adventurous
+Alice makes noise with music  xEffect  [GEN]	is reprimanded
+Alice folds a sheet of paper  xIntent  [GEN]	to move the paper
+Alice starts to read the paper  xReact  [GEN]	calm
+Alice looses his reputation  xEffect  [GEN]	is humiliated
+Alice exchanges the dress  xEffect  [GEN]	is thanked by her date
+Alice gets lost in Bob’s words  xWant  [GEN]	to find Bob’s words
+Alice tries to entice Bob  xAttr  [GEN]	persuasive
+Alice makes a plan to be friendly  xAttr  [GEN]	nice
+Alice mows the lawn  xReact  [GEN]	happy
+Alice made a radical move  HinderedBy  [GEN]	Alice is afraid to make a radical move
+Alice takes care of people’s needs  xAttr  [GEN]	helpful
+Alice confirms what was seen  xIntent  [GEN]	to inform the police
+Alice is a dedicated student  HinderedBy  [GEN]	Alice is not a student
+Alice tries to find out who stole the money  xWant  [GEN]	to know who did the money
+Alice wants to be accepted  xIntent  [GEN]	to be accepted
+Alice gets in the way of the police  xAttr  [GEN]	assertive
+Alice gains a competitive edge  xAttr  [GEN]	bold
+Alice attempts to pacify  xIntent  [GEN]	to be more cooperative
+Alice is invited by Bob to visit  xEffect  [GEN]	and Bob go to visit
+Alice finds the wrong door  xReact  [GEN]	annoyed
+Alice takes an advanced course  xReact  [GEN]	challenged
+Alice follows his own instincts  xIntent  [GEN]	to do what he is told
+Alice plans to seduce Bob  xEffect  [GEN]	gets a date with Bob
+Alice speaks too quickly  xAttr  [GEN]	lazy
+Alice begins to understand herself  HinderedBy  [GEN]	Alice is afraid of herself
+Alice carries on a dialog  xWant  [GEN]	to see more conversations
+Alice gets the kiss  xIntent  [GEN]	to be loved
+Alice has to save Bob  xAttr  [GEN]	brave
+Alice falls into a routine  xReact  [GEN]	anxious
+Alice has his first child  xWant  [GEN]	to spend more time with his child
+Alice goes on a train trip  xReact  [GEN]	adventurous
+Alice presents the new candidate  xIntent  [GEN]	to show his team the new candidate
+Alice gives up and sleeps  xEffect  [GEN]	gets better
+Alice speaks at a club  xAttr  [GEN]	outspoken
+Alice buys a cup of tea  xAttr  [GEN]	a goodener
+Alice cancels a trip to Paris  xAttr  [GEN]	a irresponsible person
+Alice's car is out of gas  xReact  [GEN]	frustrated
+Alice sets up his home PC  xIntent  [GEN]	to be prepared for the next game
+Alice learns a new thing  xEffect  [GEN]	gains knowledge
+Alice looks cool  xWant  [GEN]	to look like a kid
+Alice asks Bob to build a house  xAttr  [GEN]	ambitious
+Alice and Bob are involved in a surprise battle  xWant  [GEN]	to escape
+Alice attends prayer meeting  xEffect  [GEN]	learns to pray
+Alice asks if he can have a cup of coffee  xReact  [GEN]	sympathetic
+Alice goes sledding  xIntent  [GEN]	to be with his family
+Alice recognizes Bob as a thief  HinderedBy  [GEN]	Alice doesn't know that Bob is a thief
+Alice proclaims Bob guilty  xEffect  [GEN]	makes Bob pay
+Alice joins the mob  xAttr  [GEN]	violent
+Alice has a really smart idea  xReact  [GEN]	proud
+Alice slips out of the house  HinderedBy  [GEN]	Alice is afraid to go out
+Alice relies on Bob for advice  xIntent  [GEN]	to be sure that Bob will be okay
+Alice starts a new political party  xReact  [GEN]	challenged
+Alice realizes she is attracted to Bob  xWant  [GEN]	to date Bob
+Alice keeps the goal in mind  xNeed  [GEN]	to try to get the goal
+Alice takes advantage of Bob's suggestion  HinderedBy  [GEN]	Alice doesn't know how to make a phone call
+Alice is a bad person  xReact  [GEN]	guilty
+Alice ponders the important question  xReact  [GEN]	relaxed
+Alice asks for the pencils  xIntent  [GEN]	to find a pencil
+Alice talks about it  xIntent  [GEN]	to be sure
+Alice frowns a lot  xReact  [GEN]	sad
+Alice claims Bob is guilty  xNeed  [GEN]	to be convinced of this
+Alice tries to keep her secret  HinderedBy  [GEN]	Alice is afraid to talk to anyone
+Alice continues to move  xAttr  [GEN]	a player
+Alice helps to deliver the package  xReact  [GEN]	useful
+Alice wants Bob to come in for a drink  xIntent  [GEN]	to have a good time
+Alice becomes educated  xEffect  [GEN]	is successful
+Alice stops to buy tacos  xWant  [GEN]	to eat tacos again
+Alice will do it  xAttr  [GEN]	capable
+Alice promises Bob not to hurt him  xIntent  [GEN]	to be loyal to Bob
+Alice teaches kids to swim  xNeed  [GEN]	to be able to teach
+Alice buys expensive clothes  xEffect  [GEN]	looks good
+Alice comes back to help Bob  xReact  [GEN]	appreciated
+Alice drives over the river  xIntent  [GEN]	to hurt someone
+Alice delivers Bob's message  xAttr  [GEN]	a leader
+Alice mails letter  HinderedBy  [GEN]	Alice is not allowed to mail letters
+Alice wants to control the world  HinderedBy  [GEN]	Alice is afraid to do anything
+Alice consigns Bob to Hell  xNeed  [GEN]	to have the option to consign Bob
+Alice can't go on like this  xAttr  [GEN]	stubborn
+Alice changes a password  xReact  [GEN]	pleased
+Alice manages to agree  HinderedBy  [GEN]	Alice can't agree with you
+Alice sticks to the contract  HinderedBy  [GEN]	Alice is too tired to work
+Alice suffers from stomachache  xEffect  [GEN]	vomits
+Alice believes something about Bob  xIntent  [GEN]	to know more about Bob
+Alice reveals the baby's name  HinderedBy  [GEN]	Alice can't remember the baby's name
+Alice starts to read the book  xReact  [GEN]	excited
+Alice follows the script  xIntent  [GEN]	to succeed
+Alice is not wanted  xAttr  [GEN]	unappreciated
+Alice's father praises Alice  xWant  [GEN]	to talk to his father
+Alice remains in place  xReact  [GEN]	tired
+Alice is building a house  xAttr  [GEN]	materialistic
+Alice fails in winning Bob's heart  xNeed  [GEN]	to try to win Bob's heart
+Alice makes a movie about it  xEffect  [GEN]	gets a lot of money
+Alice leaves behind the past  xReact  [GEN]	hopeful
+Alice closes a window  xIntent  [GEN]	to keep people from escaping
+Alice sits at the computer  xIntent  [GEN]	to complete a task
+Alice asks to move in  xIntent  [GEN]	to be close to her sister
+Alice posts a video online  xNeed  [GEN]	to be interested in video games
+Alice confesses his love for Bob  HinderedBy  [GEN]	Alice doesn't know Bob
+Alice maintains the friendship  xEffect  [GEN]	and Emma get married
+Alice behaves like a buddy  xWant  [GEN]	to be nice to everyone
+Alice casts out  HinderedBy  [GEN]	Alice can't find a broom
+Alice got there before Bob  xEffect  [GEN]	is able to pass the test
+Alice and Bob start over  xWant  [GEN]	to stop making mistakes
+Alice sings in the shower  xAttr  [GEN]	a good singer
+Alice will save the world  xIntent  [GEN]	to save the world
+Alice returns to the country after four years  HinderedBy  [GEN]	Alice is sick
+Alice and Bob pack  xIntent  [GEN]	to go to bed and Bob wants to relax
+Alice fights to be free  xNeed  [GEN]	to have the courage to speak up
+Alice bought a house  xIntent  [GEN]	to be part of a family
+Alice sets up a booth  HinderedBy  [GEN]	Alice can't find a room
+Alice survives in the environment  xReact  [GEN]	hopeful
+Alice gets everyone into trouble  xIntent  [GEN]	to be in control
+Alice discovers an important clue  HinderedBy  [GEN]	Alice can't find the key
+Alice wants to get through the day  xIntent  [GEN]	to have fun
+Alice teaches personY not to steal  xReact  [GEN]	protective
+Alice gives a telephone message to Mary  HinderedBy  [GEN]	Alice is too busy to talk to Mary
+Alice becomes a person who attacks others  xNeed  [GEN]	to be in a situation where he could attack others
+Alice keeps the cat  xAttr  [GEN]	a good pet owner
+Alice learns to talk  xReact  [GEN]	comfortable
+Alice reads the last paper  HinderedBy  [GEN]	Alice is too tired to read
+Alice still gets the job  xWant  [GEN]	to work harder
+Alice is bored in the meeting  xReact  [GEN]	annoyed
+Alice becomes the king  xReact  [GEN]	powerful
+Alice is trying to decide on dinner  xWant  [GEN]	to eat
+Alice falls off a ledge  xWant  [GEN]	to get better
+Alice joins Facebook  xEffect  [GEN]	is more social
+Alice wants to keep her baby  xAttr  [GEN]	responsible
+Alice lets go of Bob  xEffect  [GEN]	is sad
+Alice acts on his insight  xReact  [GEN]	inspired
+Alice will be right with you  xIntent  [GEN]	to be right
+Alice still gets the job  xReact  [GEN]	happy
+Alice dons safety goggles  xNeed  [GEN]	to be wearing goggles
+Alice wishes he hadn't gone to the beach  xReact  [GEN]	sad
+Alice recognizes something  HinderedBy  [GEN]	Alice can't see anything
+Alice puts a book on the shelf  HinderedBy  [GEN]	Alice can't find the book
+Alice changes into clothes  xEffect  [GEN]	is pleased
+Alice acts like a horse’s ass  xAttr  [GEN]	vain
+Alice buys a cheeseburger  xIntent  [GEN]	to eat something sweet
+Alice receives a surprise  xEffect  [GEN]	is surprised
+Alice’s attitude to something has changed  HinderedBy  [GEN]	Alice doesn't like anything
+Alice talks to Bob's mom  xEffect  [GEN]	’s mom likes Bob
+Alice ran into Bob in town  xWant  [GEN]	to go out with Bob
+Alice discovers Bob's betrayal  xWant  [GEN]	to get revenge
+Alice uses the bike  xEffect  [GEN]	gets a ride on the bike
+Alice accepts Bob's greetings  xAttr  [GEN]	friendly
+Alice changes one's mind  xIntent  [GEN]	to make the right decision
+Alice makes fun of self  xIntent  [GEN]	to make people laugh
+Alice wants to sleep with Bob  HinderedBy  [GEN]	Alice is too tired
+Alice finds a victim  xAttr  [GEN]	a detective
+Alice buys a fancy car  xWant  [GEN]	to take it back
+Alice read a book by Michael Connelly  xEffect  [GEN]	is hooked on Connelly
+Alice brings it all together  HinderedBy  [GEN]	Alice is too busy to do it
+Alice reconciles with her mother  xEffect  [GEN]	becomes a better mother
+Alice sees his neighbor's house on fire  xEffect  [GEN]	is upset
+Alice tries to jump over a ditch  xNeed  [GEN]	to be willing to jump
+Alice makes a public statement  HinderedBy  [GEN]	Alice is not allowed to speak in public
+Alice puts on Bob’s socks  xIntent  [GEN]	to comfort Bob
+Alice decides to invest in stocks  xReact  [GEN]	confident
+Alice gets on the inside of Bob  xIntent  [GEN]	to know what Bob is like
+Alice studies personY’s mannerisms  xIntent  [GEN]	to understand personY
+Alice notices item  xReact  [GEN]	annoyed
+Alice sends mail to a constituent  xAttr  [GEN]	trustworthy
+Alice gets humiliated  xEffect  [GEN]	feels sorry for himself
+Alice has found Bob’s knife  xAttr  [GEN]	clever
+Alice invites Bob to the concert  xAttr  [GEN]	romantic
+Alice enters a lesbian bar  xReact  [GEN]	confident
+Alice goes somewhere nice  HinderedBy  [GEN]	Alice is too busy to go anywhere nice
+Alice offers the food  HinderedBy  [GEN]	Alice is not allowed to cook
+Alice rips off Bob's head  xIntent  [GEN]	to hurt Bob
+Alice is fortunate  xEffect  [GEN]	can get to see the person in person
+Alice pulls a knife on Bob  xAttr  [GEN]	aggressive
+Alice has a horrible nightmare  xWant  [GEN]	to avoid nightmares
+Alice chooses to remain silent  xIntent  [GEN]	to keep his feelings to himself
+Alice enjoys vacations  xEffect  [GEN]	has a good vacation
+Alice became a captain  HinderedBy  [GEN]	Alice is too small to join the team
+Alice shares his ideas  HinderedBy  [GEN]	Alice can't think of any ideas
+Alice has seen better days  xEffect  [GEN]	is proud of his progress
+Alice is in deep trouble  xReact  [GEN]	scared
+Alice asks a person related to Bob  xEffect  [GEN]	meets Bob
+Alice writes a short note to Bob  xEffect  [GEN]	is thanked by Bob
+Alice tells Bob the problem  xAttr  [GEN]	wise
+Alice remembers being pushed  xWant  [GEN]	to be careful
+Alice speaks to the class  HinderedBy  [GEN]	Alice is too shy to talk to the class
+Alice thinks about a scientific issue  HinderedBy  [GEN]	Alice is afraid to talk about the subject
+Alice loses a race  xEffect  [GEN]	is in pain
+Alice joins the Daughters of the Republic of Texas  xReact  [GEN]	proud
+Alice attends to details  xAttr  [GEN]	perceptive
+Alice has some problems  xEffect  [GEN]	gets depressed
+Alice dances at the party  xReact  [GEN]	excited
+Alice and Bob live nearby  xReact  [GEN]	close
+Alice thinks of someone else's bad decision  xReact  [GEN]	frustrated
+Alice finds a role model  HinderedBy  [GEN]	Alice is afraid to ask her friend for advice
+Alice gets more equipment  xEffect  [GEN]	gets good marks
+Alice helps people  xReact  [GEN]	happy
+Alice murders his stepfather  xEffect  [GEN]	gets away with it
+Alice becomes more environmentally friendly  xIntent  [GEN]	to save the environment
+Alice starts to read a book  HinderedBy  [GEN]	Alice is too busy to read
+Alice tries to outsmart Bob  xNeed  [GEN]	to be mad at Bob
+Alice tells Bob he thinks the plan is rubbish  xNeed  [GEN]	to be upset
+Alice asks Bob about ...  xReact  [GEN]	curious
+Alice lies about his name  xAttr  [GEN]	deceitful
+Alice tells Bob they need to talk  HinderedBy  [GEN]	Alice can't find the phone to call Bob
+Alice's father is inconsiderate  xEffect  [GEN]	's father is no longer concerned
+Alice becomes delighted  xReact  [GEN]	joyful
+Alice is in a war  HinderedBy  [GEN]	Alice is not brave enough to fight
+Alice says 'I love you'  xIntent  [GEN]	to be affectionate
+Alice has a financial setback  xWant  [GEN]	to be wealthy
+Alice finds the right way  xAttr  [GEN]	smart
+Alice is hard at work  xIntent  [GEN]	to finish his work on time
+Alice loses their coat  xWant  [GEN]	to wear new clothes
+Alice dreams about her child  HinderedBy  [GEN]	Alice is not pregnant
+Alice plans to surprise Bob with a gift  xAttr  [GEN]	charming
+Alice has to do something for Bob  xIntent  [GEN]	to protect Bob
+Alice is unqualified  xEffect  [GEN]	is not qualified
+Alice beats Bob in bowling  xEffect  [GEN]	wins the game
+Alice observes Bob talking  xReact  [GEN]	concerned
+Alice writes about a canoe trip  xAttr  [GEN]	a visionary
+Alice turns off a machine  xAttr  [GEN]	creative
+Alice spends 20 years in prison  xReact  [GEN]	disappointed
+Alice packs everything  xReact  [GEN]	determined
+Alice looks upon the sunrise  xReact  [GEN]	peaceful
+Alice translates a book for Bob  HinderedBy  [GEN]	Alice is sick
+Alice sends a condolence card  xEffect  [GEN]	receives a friendly message
+Alice breaks an object  xReact  [GEN]	angry
+Alice offers to be a supervisor  xAttr  [GEN]	strong
+Alice writes the story of a life  xEffect  [GEN]	is happy
+Alice reads all of Bob's books  xReact  [GEN]	listened to
+Alice finds out about a murder  xEffect  [GEN]	calls the cops
+Alice and Bob continue  xEffect  [GEN]	and Bob are happy
+Alice tells Bob the secret to success  xIntent  [GEN]	to help Bob
+Alice enjoys the house  xReact  [GEN]	happy
+Alice rides a skateboard  xReact  [GEN]	exhilarated
+Alice has a complex about his body  xReact  [GEN]	unsure
+Alice talks to the psychiatrist  xIntent  [GEN]	to be sure that she is well enough to go to the psychiatrist.
+Alice gets ready for the big game  xAttr  [GEN]	a leader
+Alice beats the living crap out of Bob  xEffect  [GEN]	gets a prize
+Alice delivers  xIntent  [GEN]	to be trusted
+Alice remembers the concert  xReact  [GEN]	happy
+Alice falls asleep in front of TV  xReact  [GEN]	content
+Alice learns to use a PC  HinderedBy  [GEN]	Alice is afraid of computers
+Alice has a few hobbies  HinderedBy  [GEN]	Alice is not interested in art
+Alice waits to see how the chips fall  xIntent  [GEN]	to be ready for a meal
+Alice moves closer  xIntent  [GEN]	to be closer to his mother
+Alice polishes the toy  xAttr  [GEN]	a good painter
+Alice tells Bob to watch the clock  xWant  [GEN]	Bob to be able to check it
+Alice and Bob start all over again  xIntent  [GEN]	to end the trouble
+Alice went to the wrong place  xAttr  [GEN]	irresponsible
+Alice plans a future with Bob  xWant  [GEN]	to see Bob again
+Alice sees the mushroom  xReact  [GEN]	curious
+Alice dreams of meeting Bob  xIntent  [GEN]	to meet Bob
+Alice wishes that the pain would go away  xIntent  [GEN]	to feel better
+Alice can be amusing  xEffect  [GEN]	is popular
+Alice brings Bob to her knees  xIntent  [GEN]	to be a good friend
+Alice gets a touch of influenza  xEffect  [GEN]	is sick
+Alice keeps a record of his exercise  HinderedBy  [GEN]	Alice is lazy
+Alice agrees to help Bob’s team  xReact  [GEN]	helpful
+Alice tries to avoid telling Bob  xIntent  [GEN]	to avoid being seen
+Alice considers how to take care of Bob  xEffect  [GEN]	accepts Bob's love
+Alice is asked about Bob  xWant  [GEN]	to talk to Bob
+Alice starts to read the menu  xReact  [GEN]	excited
+Alice burns their hand  xReact  [GEN]	nauseous
+Alice moves the car  xIntent  [GEN]	to get to work
+Alice attends the concert  xReact  [GEN]	curious
+Alice makes a point of working regularly  HinderedBy  [GEN]	Alice can't find a job
+Alice remembers how he met Bob  xEffect  [GEN]	feels better
+Alice huffs and puffs  xIntent  [GEN]	to calm down
+Alice marries his love  xReact  [GEN]	loved
+Alice stops to check  xReact  [GEN]	busy
+Alice meets his relatives  xIntent  [GEN]	to see his family
+Alice tries to get the baby back  xWant  [GEN]	to get the baby to stay
+Alice will go on  xIntent  [GEN]	to do something
+Alice begins to drink  xReact  [GEN]	intoxicated
+Alice refuses to let Bob go  xIntent  [GEN]	to keep Bob from leaving
+Alice remembers what happened last night  xReact  [GEN]	guilty
+Alice spends too much time on the phone  xEffect  [GEN]	gets distracted
+Alice suffers at the beach  xWant  [GEN]	to go to the beach
+Alice jumps from the train  xIntent  [GEN]	to get to work on time
+Alice is conflicted  xReact  [GEN]	sad
+Alice arrives home from trip  xEffect  [GEN]	is happy to see his family
+Alice teaches Bob about himself  HinderedBy  [GEN]	Alice can't find Bob
+Alice has stomachache  xEffect  [GEN]	gets an appointment
+Alice sticks to his motto  xAttr  [GEN]	organized
+Alice is very confident  xReact  [GEN]	happy
+Alice just married Bob  xIntent  [GEN]	to marry Bob
+Alice wants to visit the zoo  xNeed  [GEN]	to be interested in animal rights
+Alice receives and email  xEffect  [GEN]	remembers Alice’s message
+Alice stops by Bob's  xIntent  [GEN]	to talk to Bob
+Alice can't believe what he or she sees  HinderedBy  [GEN]	Alice can't see anything
+Alice can clearly grasp it  xAttr  [GEN]	intelligent
+Alice tells Bob to keep it down  xIntent  [GEN]	to keep Bob safe
+Alice launches the business  HinderedBy  [GEN]	Alice is sick
+Alice maintains a high learning rate  HinderedBy  [GEN]	Alice can't find the materials to do his homework
+Alice posts his thoughts online  HinderedBy  [GEN]	Alice is too shy to post his thoughts online
+Alice and Bob form a partnership  xIntent  [GEN]	to be partners with Bob
+Alice tries something he or she has never done before  xAttr  [GEN]	adventurous
+Alice is a professor of psychology  HinderedBy  [GEN]	Alice is too busy to teach
+Alice agrees to the contract  xIntent  [GEN]	to be part of the group
+Alice was disappointed in Bob  xEffect  [GEN]	is jealous of Bob
+Alice stops a bomb from going off  HinderedBy  [GEN]	Alice is too scared to do anything
+Alice is about to go somewhere  xAttr  [GEN]	adventurous
+Alice introduces Bob to the correct date  xReact  [GEN]	proud
+Alice sings in a band  xWant  [GEN]	to be a singer
+Alice makes a bargain  xWant  [GEN]	to make more deals
+Alice does not want to drink  xEffect  [GEN]	drinks less
+Alice takes things literally  xWant  [GEN]	to be a storyteller
+Alice is made a partner  xEffect  [GEN]	is happy
+Alice says no to a drink  xAttr  [GEN]	polite
+Alice likes both of these examples  xIntent  [GEN]	to learn from the others
+Alice pulls the car over  xAttr  [GEN]	careless
+Alice visits with a feeling of reunion  xNeed  [GEN]	to feel close to someone
+Alice stays for coffee  HinderedBy  [GEN]	Alice is allergic to coffee
+Alice dresses as Batman  xReact  [GEN]	satisfied
+Alice wants Bob to know  xAttr  [GEN]	nice
+Alice agrees to testify against Bob  xNeed  [GEN]	to be a part of the jury
+Alice is constantly excited  xEffect  [GEN]	feels happy
+"Alice is ""alone and grumbling""  xReact  [GEN]"	ashamed
+Alice deals with Bob in person  HinderedBy  [GEN]	Alice is not friends with Bob
+Alice faces the press  xIntent  [GEN]	to stand out
+Alice puts away his suitcase  xEffect  [GEN]	gets to sleep
+Alice’s friend is arrested  xReact  [GEN]	afraid
+Alice repairs an appliance  xEffect  [GEN]	gets credit for the work
+Alice paints a pretty picture  xNeed  [GEN]	to have a skill
+Alice demonstrates a photo  xReact  [GEN]	inspired
+Alice loses his wallet  xEffect  [GEN]	is homeless
+Alice found an old picture  HinderedBy  [GEN]	Alice can't find the picture
+Alice posts a note on Bob's door  HinderedBy  [GEN]	Alice is not allowed to see Bob
+Alice goes to the Halloween party  HinderedBy  [GEN]	Alice is too scared to go to the party
+Alice starts to feel sorry  xEffect  [GEN]	is angry
+Alice speaks calmly to Bob  xNeed  [GEN]	to be confident
+Alice celebrates Bob's success  HinderedBy  [GEN]	Alice is afraid to celebrate
+Alice drives over personY’s toes  xAttr  [GEN]	impulsive
+Alice types out the proposal  xReact  [GEN]	happy
+Alice spreads the news  xEffect  [GEN]	gets congratulated by his friends
+Alice thinks about imprisonment  xReact  [GEN]	frustrated
+Alice kisses Bob's mouth  xIntent  [GEN]	to kiss Bob
+Alice makes a three-point turn  HinderedBy  [GEN]	Alice is in a wheelchair
+Alice contributes to household tasks  xWant  [GEN]	to be a good parent
+Alice is a big talker  xEffect  [GEN]	is famous
+Alice tells Bob about his son  xAttr  [GEN]	polite
+Alice explores Bob’s body  xIntent  [GEN]	to understand Bob
+Alice participates in a talent show  xNeed  [GEN]	to be invited to participate in a talent show
+Alice makes a reasonable suggestion  xAttr  [GEN]	wise
+Alice accepts a dinner invitation from Bob  xAttr  [GEN]	polite
+Alice announces his party  xIntent  [GEN]	to show his support for the party
+Alice heads into the room  xReact  [GEN]	nervous
+Alice asks Bob to check a ballgame  HinderedBy  [GEN]	Alice is too upset to watch a game
+Alice is sharp  xIntent  [GEN]	to be in a position of power
+Alice runs 10 miles  xAttr  [GEN]	a runner
+Alice attends an international congress  xReact  [GEN]	excited
+Alice helps Bob choose a site  xNeed  [GEN]	to have the ability to save money
+Alice looks at Bob's eyes  xIntent  [GEN]	to hear Bob's thoughts
+Alice notices a white butterfly  xEffect  [GEN]	is not surprised
+Alice destroys some electronics  xAttr  [GEN]	destructive
+Alice bought a cake  xEffect  [GEN]	was happy
+Alice posts it on the Internet  xAttr  [GEN]	clever
+Alice takes an architectural tour  HinderedBy  [GEN]	Alice can't find a plane ticket
+Alice recognizes Bob's wishes  xEffect  [GEN]	agrees to Bob's wishes
+Alice decides to go to the park  xIntent  [GEN]	to get away from his problems
+Alice attends class  xIntent  [GEN]	to be a good student
+Alice decides to be generous  xIntent  [GEN]	to get things done
+Alice meets two new friends  xAttr  [GEN]	popular
+Alice suggests alternative  HinderedBy  [GEN]	Alice is not allowed to have any proposals
+Alice agrees to move in with Bob  xAttr  [GEN]	a nice person
+Alice posts on Bob's journal  xAttr  [GEN]	friendly
+Alice runs on a treadmill  xAttr  [GEN]	hyper
+Alice does drugs  xReact  [GEN]	ashamed
+Alice gets really mad  xEffect  [GEN]	gets depressed
+Alice reads the next chapter  xReact  [GEN]	excited
+Alice faints in Bob's presence  xReact  [GEN]	upset
+Alice does not like to show anger  xAttr  [GEN]	peaceful
+Alice kisses Bob on the cheek  xReact  [GEN]	content
+Alice cleans up the leaves  xIntent  [GEN]	to be a nice person
+Alice adopts a child  HinderedBy  [GEN]	Alice is too young to have a child
+Alice loses her suitcase  xReact  [GEN]	upset
+Alice reacts to police officer  xWant  [GEN]	to know his whereabouts
+Alice loses her fortune  xWant  [GEN]	to make money
+Alice has a nightmare about what Bob said  xWant  [GEN]	to laugh
+Alice tells Bob to stop  xIntent  [GEN]	to stop Bob from hurting people
+Alice edits Bob's manuscript  HinderedBy  [GEN]	Alice can't find the right paper
+Alice avoids taking action  xReact  [GEN]	frustrated
+Alice really loses it  xAttr  [GEN]	angry
+Alice helps person Y with his work  xIntent  [GEN]	to help person Y
+Alice has a reputation for philanthropy  xWant  [GEN]	to spend money
+Alice shows Bob something  xEffect  [GEN]	is thanked by Bob
+Alice found Bob annoying  xWant  [GEN]	to make Bob angry
+Alice and Bob have good chemistry  xReact  [GEN]	happy
+Alice values Bob’s relationship  xEffect  [GEN]	is a good friend of Bob

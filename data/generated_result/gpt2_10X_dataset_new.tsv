@@ -1,0 +1,500 @@
+PersonX finds and turns on the lights  HinderedBy  [GEN]	PersonX can't find the light switch
+PersonX stops someone from leaving  xAttr  [GEN]	trustworthy
+PersonX is bent on making money  xIntent  [GEN]	to be rich
+PersonX explains a feeling  xEffect  [GEN]	is understood
+PersonX joins her employer  xReact  [GEN]	responsible
+PersonX ends her engagement  xEffect  [GEN]	is no longer married
+PersonX cancels the festival  xReact  [GEN]	guilty
+PersonX loves flowers  xReact  [GEN]	happy
+PersonX demonstrates a new golf swing  xNeed  [GEN]	to be outside
+PersonX blocks his foot  xEffect  [GEN]	is injured
+PersonX is careless in sending a letter  xReact  [GEN]	guilty
+PersonX offers a peace-making gift  HinderedBy  [GEN]	PersonX is too busy to make a peace gift
+PersonX receives a job promotion  xNeed  [GEN]	to apply
+PersonX blocks PersonY's Facebook account  xIntent  [GEN]	to annoy PersonY
+PersonX discusses an issue with PersonY  HinderedBy  [GEN]	PersonX is too busy to discuss the issue
+PersonX keeps in contact with PersonY  xEffect  [GEN]	and PersonY become closer
+PersonX makes a play  xReact  [GEN]	pleased
+PersonX takes up painting  xReact  [GEN]	happy
+PersonX loses the argument  xReact  [GEN]	angry
+PersonX flosses teeth  xEffect  [GEN]	bleeds
+PersonX touches up the living room  xReact  [GEN]	inspired
+PersonX gets in the driver's seat  xReact  [GEN]	confident
+PersonX follows PersonY’s every move  xIntent  [GEN]	to have a team
+PersonX contemplates human nature  HinderedBy  [GEN]	PersonX is afraid of the unknown
+PersonX is saving his money  xIntent  [GEN]	to save money
+PersonX wants to change his way of life  xReact  [GEN]	joyful
+PersonX kept her promise  xReact  [GEN]	confident
+PersonX is a conscientious student  xIntent  [GEN]	to be a good student
+PersonX wishes for strength  xReact  [GEN]	weak
+PersonX and PersonY are punished  xAttr  [GEN]	cruel
+PersonX is back in touch with PersonY  xEffect  [GEN]	is pleased with PersonY’s support
+PersonX seeks an audience  xIntent  [GEN]	to entertain
+PersonX is one of PersonY's children  xAttr  [GEN]	talented
+PersonX gets a job in town  xAttr  [GEN]	ambitious
+PersonX finds it rather hot  xWant  [GEN]	to cool off
+PersonX does not speak  xIntent  [GEN]	to avoid confrontation
+PersonX learns to control her emotions  xEffect  [GEN]	is able to cope with emotions
+PersonX never wants to hear that joke again  xEffect  [GEN]	laughs
+PersonX swims in the rain  xIntent  [GEN]	to be prepared for a storm
+PersonX understands why PersonY did what she did  xAttr  [GEN]	smart
+PersonX repairs the window  xNeed  [GEN]	to have the tools
+PersonX loses a project  xWant  [GEN]	to do a better project
+PersonX believes in the freedom of choice  xReact  [GEN]	empowered
+PersonX has fun with PersonY's children  xReact  [GEN]	happy
+PersonX remembers a time PersonY got on her nerves  xReact  [GEN]	annoyed
+PersonX tries to steal money  xWant  [GEN]	to get away with it
+PersonX wanted to be a firefighter  xEffect  [GEN]	was a firefighter
+PersonX jumps in with both feet  xWant  [GEN]	to be healthy
+PersonX earns a dollar an hour  HinderedBy  [GEN]	PersonX is broke
+PersonX lives by a schedule  xIntent  [GEN]	to do his homework
+PersonX gets a good mark on a test  HinderedBy  [GEN]	PersonX has no test scores
+PersonX just wants to share the news  xAttr  [GEN]	patient
+PersonX hates to sleep  xIntent  [GEN]	to stay awake with his parents
+PersonX meets a stranger on the street  xAttr  [GEN]	outgoing
+PersonX gets in touch with an old friend  xReact  [GEN]	pleased
+PersonX lives in a special place  xIntent  [GEN]	to express herself
+PersonX serves as mediator  xReact  [GEN]	helpful
+PersonX meets the wrong person  xEffect  [GEN]	feels bad
+PersonX goes back to baking  xWant  [GEN]	to bake more
+PersonX likes their photo  xIntent  [GEN]	to show their love
+PersonX considers a new perspective  HinderedBy  [GEN]	PersonX is too busy to think about a new perspective
+PersonX tells someone  xReact  [GEN]	pleased
+PersonX learns to walk  xReact  [GEN]	happy
+PersonX puts on headphones  xWant  [GEN]	to listen to music
+PersonX tosses PersonY up in the air  xIntent  [GEN]	to scare PersonY
+PersonX shares a photo with PersonY  xIntent  [GEN]	to show PersonY that he cares
+PersonX sells vegetables  HinderedBy  [GEN]	PersonX can't find any vegetables
+PersonX is among the strongest  xNeed  [GEN]	to have enough strength
+PersonX does not want to sleep  xEffect  [GEN]	sleeps
+PersonX refuses to volunteer to help at the hospital  xIntent  [GEN]	to be independent
+PersonX makes everyone walk through PersonY's home  xIntent  [GEN]	to protect PersonY from harm
+PersonX hits PersonY in the stomach  xAttr  [GEN]	aggressive
+PersonX leads PersonY to God  xAttr  [GEN]	considerate
+PersonX and PersonY chat about the old days  xEffect  [GEN]	and PersonY are inspired by the past
+PersonX studies hard, unlike PersonY  xIntent  [GEN]	to improve
+PersonX meets a friend for dinner  xWant  [GEN]	to spend time with the friend
+PersonX follows PersonY in the park  xIntent  [GEN]	to see PersonY
+PersonX begins to learn to play the violin  xReact  [GEN]	interested
+PersonX wraps up PersonY  xAttr  [GEN]	loving
+PersonX wants to attend the meeting  xNeed  [GEN]	to want to attend the meeting
+PersonX demands the truth  HinderedBy  [GEN]	PersonX can't face the truth
+PersonX has been elected as a member of the Senate  xReact  [GEN]	hopeful
+PersonX argues with the police  xAttr  [GEN]	stubborn
+PersonX performs at the theatre  HinderedBy  [GEN]	PersonX can't find a ticket
+PersonX sees PersonY in black clothes  HinderedBy  [GEN]	PersonX doesn't know PersonY
+PersonX whips up a mob  xReact  [GEN]	powerful
+PersonX has a strong, loyal dog  xAttr  [GEN]	a loyal dog lover
+PersonX makes a quick trip  xIntent  [GEN]	to be on time
+PersonX finds someone to blame  xAttr  [GEN]	ruthless
+PersonX is eager to start right away  xReact  [GEN]	optimistic
+PersonX changes language  xIntent  [GEN]	to communicate with people
+PersonX mentions the incident  xReact  [GEN]	remorseful
+PersonX proves his love  HinderedBy  [GEN]	PersonX is too shy to ask about his feelings
+PersonX works in the area  xIntent  [GEN]	to start a new job
+PersonX commits to a cause  xAttr  [GEN]	ethical
+PersonX wants something  xEffect  [GEN]	wants it
+PersonX buys a new camera  xEffect  [GEN]	is pleased with the camera
+PersonX writes a newsletter  xAttr  [GEN]	punctual
+PersonX is fashionable  HinderedBy  [GEN]	PersonX is ugly
+PersonX succeeds in stopping smoking  xAttr  [GEN]	courageous
+"PersonX is voted ""Most Likely to Succeed""  xEffect  [GEN]"	is promoted
+PersonX tries to be strong  HinderedBy  [GEN]	PersonX is weak
+PersonX sways PersonY  xReact  [GEN]	happy
+PersonX keeps on trying  HinderedBy  [GEN]	PersonX is too tired to try
+PersonX heads to a restaurant  xIntent  [GEN]	to eat
+PersonX is elected to parliament  xReact  [GEN]	confident
+PersonX helps PersonY realize  xReact  [GEN]	excited
+PersonX arrives early  xIntent  [GEN]	to be taken advantage of
+PersonX says something optimistic  HinderedBy  [GEN]	PersonX is depressed
+PersonX gets kicked out of the bathroom  xReact  [GEN]	sad
+PersonX laughs happily  xEffect  [GEN]	is happy
+PersonX is on the verge of giving up  xAttr  [GEN]	determined
+PersonX moves into a van  xAttr  [GEN]	independent
+PersonX makes noise with music  xEffect  [GEN]	is popular
+PersonX folds a sheet of paper  xIntent  [GEN]	to complete a task
+PersonX starts to read the paper  xReact  [GEN]	excited
+PersonX looses his reputation  xEffect  [GEN]	is ashamed of his behavior
+PersonX exchanges the dress  xEffect  [GEN]	returns to the dress
+PersonX gets lost in PersonY’s words  xWant  [GEN]	to be alone
+PersonX tries to entice PersonY  xAttr  [GEN]	persuasive
+PersonX makes a plan to be friendly  xAttr  [GEN]	a nice guy
+PersonX mows the lawn  xReact  [GEN]	productive
+PersonX made a radical move  HinderedBy  [GEN]	PersonX doesn't take drugs
+PersonX takes care of people’s needs  xAttr  [GEN]	a leader
+PersonX confirms what was seen  xIntent  [GEN]	to be sure
+PersonX is a dedicated student  HinderedBy  [GEN]	PersonX is not a good enough student
+PersonX tries to find out who stole the money  xWant  [GEN]	to be able to find out who did the theft
+PersonX wants to be accepted  xIntent  [GEN]	to be accepted
+PersonX gets in the way of the police  xAttr  [GEN]	irresponsible
+PersonX gains a competitive edge  xAttr  [GEN]	superior
+PersonX attempts to pacify  xIntent  [GEN]	to help
+PersonX is invited by PersonY to visit  xEffect  [GEN]	visits PersonY
+PersonX finds the wrong door  xReact  [GEN]	frustrated
+PersonX takes an advanced course  xReact  [GEN]	competent
+PersonX follows his own instincts  xIntent  [GEN]	to be honest
+PersonX plans to seduce PersonY  xEffect  [GEN]	and PersonY get to know each other
+PersonX speaks too quickly  xAttr  [GEN]	slow
+PersonX begins to understand herself  HinderedBy  [GEN]	PersonX is still confused
+PersonX carries on a dialog  xWant  [GEN]	to talk more
+PersonX gets the kiss  xIntent  [GEN]	to be kissed
+PersonX has to save PersonY  xAttr  [GEN]	responsible
+PersonX falls into a routine  xReact  [GEN]	nervous
+PersonX has his first child  xWant  [GEN]	to be a father
+PersonX goes on a train trip  xReact  [GEN]	exhausted
+PersonX presents the new candidate  xIntent  [GEN]	to be a good leader
+PersonX gives up and sleeps  xEffect  [GEN]	is awake
+PersonX speaks at a club  xAttr  [GEN]	popular
+PersonX buys a cup of tea  xAttr  [GEN]	sophisticated
+PersonX cancels a trip to Paris  xAttr  [GEN]	irresponsible
+PersonX's car is out of gas  xReact  [GEN]	frustrated
+PersonX sets up his home PC  xIntent  [GEN]	to play games on his computer
+PersonX learns a new thing  xEffect  [GEN]	is happier
+PersonX looks cool  xWant  [GEN]	to look nice
+PersonX asks PersonY to build a house  xAttr  [GEN]	responsible
+PersonX and PersonY are involved in a surprise battle  xWant  [GEN]	to fight back
+PersonX attends prayer meeting  xEffect  [GEN]	’s prayer improves
+PersonX asks if he can have a cup of coffee  xReact  [GEN]	confident
+PersonX goes sledding  xIntent  [GEN]	to be on a sled
+PersonX recognizes PersonY as a thief  HinderedBy  [GEN]	PersonX thinks PersonY is hiding something
+PersonX proclaims PersonY guilty  xEffect  [GEN]	gets criticized by PersonY
+PersonX joins the mob  xAttr  [GEN]	tough
+PersonX has a really smart idea  xReact  [GEN]	motivated
+PersonX slips out of the house  HinderedBy  [GEN]	PersonX is too shy to leave the house
+PersonX relies on PersonY for advice  xIntent  [GEN]	to be supportive of PersonY
+PersonX starts a new political party  xReact  [GEN]	excited
+PersonX realizes she is attracted to PersonY  xWant  [GEN]	to date PersonY
+PersonX keeps the goal in mind  xNeed  [GEN]	to be in control of the game
+PersonX takes advantage of PersonY's suggestion  HinderedBy  [GEN]	PersonX can't find the invitation
+PersonX is a bad person  xReact  [GEN]	rejected
+PersonX ponders the important question  xReact  [GEN]	curious
+PersonX asks for the pencils  xIntent  [GEN]	to finish the assignment
+PersonX talks about it  xIntent  [GEN]	to share her feelings
+PersonX frowns a lot  xReact  [GEN]	sad
+PersonX claims PersonY is guilty  xNeed  [GEN]	to have evidence
+PersonX tries to keep her secret  HinderedBy  [GEN]	PersonX doesn't want to tell anyone
+PersonX continues to move  xAttr  [GEN]	determined
+PersonX helps to deliver the package  xReact  [GEN]	appreciated
+PersonX wants PersonY to come in for a drink  xIntent  [GEN]	to be a good friend
+PersonX becomes educated  xEffect  [GEN]	is a better student
+PersonX stops to buy tacos  xWant  [GEN]	to eat tacos
+PersonX will do it  xAttr  [GEN]	capable
+PersonX promises PersonY not to hurt him  xIntent  [GEN]	to be a good father
+PersonX teaches kids to swim  xNeed  [GEN]	to be in the mood to teach kids
+PersonX buys expensive clothes  xEffect  [GEN]	has a cool look
+PersonX comes back to help PersonY  xReact  [GEN]	pleased
+PersonX drives over the river  xIntent  [GEN]	to be in control
+PersonX delivers PersonY's message  xAttr  [GEN]	persuasive
+PersonX mails letter  HinderedBy  [GEN]	PersonX is too busy
+PersonX wants to control the world  HinderedBy  [GEN]	PersonX can't control the world
+PersonX consigns PersonY to Hell  xNeed  [GEN]	to have the desire to do so
+PersonX can't go on like this  xAttr  [GEN]	stubborn
+PersonX changes a password  xReact  [GEN]	happy
+PersonX manages to agree  HinderedBy  [GEN]	PersonX is afraid to agree
+PersonX sticks to the contract  HinderedBy  [GEN]	PersonX can't find the money to pay the contract
+PersonX suffers from stomachache  xEffect  [GEN]	is hospitalized
+PersonX believes something about PersonY  xIntent  [GEN]	to be supportive
+PersonX reveals the baby's name  HinderedBy  [GEN]	PersonX is deaf
+PersonX starts to read the book  xReact  [GEN]	motivated
+PersonX follows the script  xIntent  [GEN]	to be a good actor
+PersonX is not wanted  xAttr  [GEN]	insecure
+PersonX's father praises PersonX  xWant  [GEN]	to work hard
+PersonX remains in place  xReact  [GEN]	safe
+PersonX is building a house  xAttr  [GEN]	a designer
+PersonX fails in winning PersonY's heart  xNeed  [GEN]	to try harder
+PersonX makes a movie about it  xEffect  [GEN]	gets a million dollars
+PersonX leaves behind the past  xReact  [GEN]	relieved
+PersonX closes a window  xIntent  [GEN]	to prevent rain
+PersonX sits at the computer  xIntent  [GEN]	to play the computer game
+PersonX asks to move in  xIntent  [GEN]	to have the place to herself
+PersonX posts a video online  xNeed  [GEN]	to be online
+PersonX confesses his love for PersonY  HinderedBy  [GEN]	PersonX doesn't want to tell PersonY what he wants
+PersonX maintains the friendship  xEffect  [GEN]	and Y become friends
+PersonX behaves like a buddy  xWant  [GEN]	to show his friends how much he cares
+PersonX casts out  HinderedBy  [GEN]	PersonX is too scared to do it
+PersonX got there before PersonY  xEffect  [GEN]	is not late
+PersonX and PersonY start over  xWant  [GEN]	to be alone
+PersonX sings in the shower  xAttr  [GEN]	talented
+PersonX will save the world  xIntent  [GEN]	to be the best
+PersonX returns to the country after four years  HinderedBy  [GEN]	PersonX has been away from home
+PersonX and PersonY pack  xIntent  [GEN]	to leave on vacation
+PersonX fights to be free  xNeed  [GEN]	to have an opinion about the law
+PersonX bought a house  xIntent  [GEN]	to have a nice house
+PersonX sets up a booth  HinderedBy  [GEN]	PersonX is too tired to do it
+PersonX survives in the environment  xReact  [GEN]	content
+PersonX gets everyone into trouble  xIntent  [GEN]	to be a leader
+PersonX discovers an important clue  HinderedBy  [GEN]	PersonX can't find the clues
+PersonX wants to get through the day  xIntent  [GEN]	to be a good person
+PersonX teaches personY not to steal  xReact  [GEN]	brave
+PersonX gives a telephone message to Mary  HinderedBy  [GEN]	PersonX can't find the phone to call Mary
+PersonX becomes a person who attacks others  xNeed  [GEN]	to be angry
+PersonX keeps the cat  xAttr  [GEN]	kind
+PersonX learns to talk  xReact  [GEN]	relaxed
+PersonX reads the last paper  HinderedBy  [GEN]	PersonX can't find the paper
+PersonX still gets the job  xWant  [GEN]	to get hired
+PersonX is bored in the meeting  xReact  [GEN]	unhappy
+PersonX becomes the king  xReact  [GEN]	inspired
+PersonX is trying to decide on dinner  xWant  [GEN]	to eat dinner
+PersonX falls off a ledge  xWant  [GEN]	to find a friend
+PersonX joins Facebook  xEffect  [GEN]	gets more friends
+PersonX wants to keep her baby  xAttr  [GEN]	responsible
+PersonX lets go of PersonY  xEffect  [GEN]	is relieved
+PersonX acts on his insight  xReact  [GEN]	confident
+PersonX will be right with you  xIntent  [GEN]	to be with you
+PersonX still gets the job  xReact  [GEN]	happy
+PersonX dons safety goggles  xNeed  [GEN]	to go outside
+PersonX wishes he hadn't gone to the beach  xReact  [GEN]	disappointed
+PersonX recognizes something  HinderedBy  [GEN]	PersonX can't recognize anything
+PersonX puts a book on the shelf  HinderedBy  [GEN]	PersonX can't find the book
+PersonX changes into clothes  xEffect  [GEN]	is happy
+PersonX acts like a horse’s ass  xAttr  [GEN]	aggressive
+PersonX buys a cheeseburger  xIntent  [GEN]	to eat healthy
+PersonX receives a surprise  xEffect  [GEN]	is delighted
+PersonX’s attitude to something has changed  HinderedBy  [GEN]	PersonX is still a very quiet person
+PersonX talks to PersonY's mom  xEffect  [GEN]	gets to know PersonY's mom
+PersonX ran into PersonY in town  xWant  [GEN]	to get to know PersonY better
+PersonX discovers PersonY's betrayal  xWant  [GEN]	to go to PersonY's place
+PersonX uses the bike  xEffect  [GEN]	is more confident
+PersonX accepts PersonY's greetings  xAttr  [GEN]	polite
+PersonX changes one's mind  xIntent  [GEN]	to change a position
+PersonX makes fun of self  xIntent  [GEN]	to express his anger
+PersonX wants to sleep with PersonY  HinderedBy  [GEN]	PersonX is afraid of PersonY
+PersonX finds a victim  xAttr  [GEN]	intelligent
+PersonX buys a fancy car  xWant  [GEN]	to drive the car
+PersonX read a book by Michael Connelly  xEffect  [GEN]	feels good about himself
+PersonX brings it all together  HinderedBy  [GEN]	PersonX can't find the ingredients for the recipe
+PersonX reconciles with her mother  xEffect  [GEN]	is comforted by her mother
+PersonX sees his neighbor's house on fire  xEffect  [GEN]	makes a house fire
+PersonX tries to jump over a ditch  xNeed  [GEN]	to be able to jump
+PersonX makes a public statement  HinderedBy  [GEN]	PersonX is too shy to speak up
+PersonX puts on PersonY’s socks  xIntent  [GEN]	to play with PersonY
+PersonX decides to invest in stocks  xReact  [GEN]	excited
+PersonX gets on the inside of PersonY  xIntent  [GEN]	to get PersonY's attention
+PersonX studies personY’s mannerisms  xIntent  [GEN]	to be able to find people to like
+PersonX notices item  xReact  [GEN]	interested
+PersonX sends mail to a constituent  xAttr  [GEN]	considerate
+PersonX gets humiliated  xEffect  [GEN]	is more upset
+PersonX has found PersonY’s knife  xAttr  [GEN]	smart
+PersonX invites PersonY to the concert  xAttr  [GEN]	a good friend
+PersonX enters a lesbian bar  xReact  [GEN]	confused
+PersonX goes somewhere nice  HinderedBy  [GEN]	PersonX is too scared to go anywhere nice
+PersonX offers the food  HinderedBy  [GEN]	PersonX is afraid to eat
+PersonX rips off PersonY's head  xIntent  [GEN]	to get revenge
+PersonX is fortunate  xEffect  [GEN]	is thankful
+PersonX pulls a knife on PersonY  xAttr  [GEN]	aggressive
+PersonX has a horrible nightmare  xWant  [GEN]	to go to the doctor
+PersonX chooses to remain silent  xIntent  [GEN]	to avoid conflict
+PersonX enjoys vacations  xEffect  [GEN]	has more time to spend
+PersonX became a captain  HinderedBy  [GEN]	PersonX doesn't have the training set
+PersonX shares his ideas  HinderedBy  [GEN]	PersonX is too shy to share his ideas
+PersonX has seen better days  xEffect  [GEN]	is happy
+PersonX is in deep trouble  xReact  [GEN]	frustrated
+PersonX asks a person related to PersonY  xEffect  [GEN]	gets the person's attention
+PersonX writes a short note to PersonY  xEffect  [GEN]	gets PersonY's attention
+PersonX tells PersonY the problem  xAttr  [GEN]	persuasive
+PersonX remembers being pushed  xWant  [GEN]	to avoid being pushed
+PersonX speaks to the class  HinderedBy  [GEN]	PersonX is too busy to talk to the class
+PersonX thinks about a scientific issue  HinderedBy  [GEN]	PersonX is busy with college
+PersonX loses a race  xEffect  [GEN]	is disappointed
+PersonX joins the Daughters of the Republic of Texas  xReact  [GEN]	patriotic
+PersonX attends to details  xAttr  [GEN]	thorough
+PersonX has some problems  xEffect  [GEN]	is unable to cope with anger
+PersonX dances at the party  xReact  [GEN]	sexy
+PersonX and PersonY live nearby  xReact  [GEN]	comfortable
+PersonX thinks of someone else's bad decision  xReact  [GEN]	sad
+PersonX finds a role model  HinderedBy  [GEN]	PersonX is too busy to adopt a role model
+PersonX gets more equipment  xEffect  [GEN]	has more stamina
+PersonX helps people  xReact  [GEN]	helpful
+PersonX murders his stepfather  xEffect  [GEN]	is in jail
+PersonX becomes more environmentally friendly  xIntent  [GEN]	to be environmentally conscious
+PersonX starts to read a book  HinderedBy  [GEN]	PersonX can't read
+PersonX tries to outsmart PersonY  xNeed  [GEN]	to be in charge
+PersonX tells PersonY he thinks the plan is rubbish  xNeed  [GEN]	to hear PersonY' opinion
+PersonX asks PersonY about ...  xReact  [GEN]	excited
+PersonX lies about his name  xAttr  [GEN]	dishonest
+PersonX tells PersonY they need to talk  HinderedBy  [GEN]	PersonX is late for work
+PersonX's father is inconsiderate  xEffect  [GEN]	is angry
+PersonX becomes delighted  xReact  [GEN]	joyful
+PersonX is in a war  HinderedBy  [GEN]	PersonX is a soldier
+PersonX says 'I love you'  xIntent  [GEN]	to be a good friend
+PersonX has a financial setback  xWant  [GEN]	to be able to pay the debt
+PersonX finds the right way  xAttr  [GEN]	resourceful
+PersonX is hard at work  xIntent  [GEN]	to be successful
+PersonX loses their coat  xWant  [GEN]	to get it back
+PersonX dreams about her child  HinderedBy  [GEN]	PersonX is too busy to dream about her child
+PersonX plans to surprise PersonY with a gift  xAttr  [GEN]	romantic
+PersonX has to do something for PersonY  xIntent  [GEN]	to help PersonY
+PersonX is unqualified  xEffect  [GEN]	is left out of the race
+PersonX beats PersonY in bowling  xEffect  [GEN]	is proud of himself
+PersonX observes PersonY talking  xReact  [GEN]	curious
+PersonX writes about a canoe trip  xAttr  [GEN]	adventurous
+PersonX turns off a machine  xAttr  [GEN]	clever
+PersonX spends 20 years in prison  xReact  [GEN]	tired
+PersonX packs everything  xReact  [GEN]	organized
+PersonX looks upon the sunrise  xReact  [GEN]	excited
+PersonX translates a book for PersonY  HinderedBy  [GEN]	PersonX is too busy to translate
+PersonX sends a condolence card  xEffect  [GEN]	is thanked by her mother
+PersonX breaks an object  xReact  [GEN]	upset
+PersonX offers to be a supervisor  xAttr  [GEN]	a boss
+PersonX writes the story of a life  xEffect  [GEN]	is happy
+PersonX reads all of PersonY's books  xReact  [GEN]	inspired
+PersonX finds out about a murder  xEffect  [GEN]	feels sad
+PersonX and PersonY continue  xEffect  [GEN]	and PersonY are friends
+PersonX tells PersonY the secret to success  xIntent  [GEN]	to be a success
+PersonX enjoys the house  xReact  [GEN]	content
+PersonX rides a skateboard  xReact  [GEN]	energetic
+PersonX has a complex about his body  xReact  [GEN]	tired
+PersonX talks to the psychiatrist  xIntent  [GEN]	to talk to the psychiatrist
+PersonX gets ready for the big game  xAttr  [GEN]	ambitious
+PersonX beats the living crap out of PersonY  xEffect  [GEN]	is given a chance to prove his mettle
+PersonX delivers  xIntent  [GEN]	to deliver a message
+PersonX remembers the concert  xReact  [GEN]	relieved
+PersonX falls asleep in front of TV  xReact  [GEN]	tired
+PersonX learns to use a PC  HinderedBy  [GEN]	PersonX can't remember the instructions
+PersonX has a few hobbies  HinderedBy  [GEN]	PersonX is too busy to have any hobbies
+PersonX waits to see how the chips fall  xIntent  [GEN]	to be prepared for the next round
+PersonX moves closer  xIntent  [GEN]	to be closer to his family
+PersonX polishes the toy  xAttr  [GEN]	neat
+PersonX tells PersonY to watch the clock  xWant  [GEN]	to study
+PersonX and PersonY start all over again  xIntent  [GEN]	to go back to school and PersonY wants to get a job
+PersonX went to the wrong place  xAttr  [GEN]	dishonest
+PersonX plans a future with PersonY  xWant  [GEN]	to be with PersonY again
+PersonX sees the mushroom  xReact  [GEN]	amazed
+PersonX dreams of meeting PersonY  xIntent  [GEN]	to spend time with PersonY
+PersonX wishes that the pain would go away  xIntent  [GEN]	to make the pain go away
+PersonX can be amusing  xEffect  [GEN]	has fun
+PersonX brings PersonY to her knees  xIntent  [GEN]	to make PersonY feel understood
+PersonX gets a touch of influenza  xEffect  [GEN]	is sick
+PersonX keeps a record of his exercise  HinderedBy  [GEN]	PersonX can't keep track
+PersonX agrees to help PersonY’s team  xReact  [GEN]	proud
+PersonX tries to avoid telling PersonY  xIntent  [GEN]	to avoid getting caught
+PersonX considers how to take care of PersonY  xEffect  [GEN]	becomes a better friend
+PersonX is asked about PersonY  xWant  [GEN]	to answer him
+PersonX starts to read the menu  xReact  [GEN]	interested
+PersonX burns their hand  xReact  [GEN]	bad
+PersonX moves the car  xIntent  [GEN]	to get to work on time
+PersonX attends the concert  xReact  [GEN]	proud
+PersonX makes a point of working regularly  HinderedBy  [GEN]	PersonX is a slob
+PersonX remembers how he met PersonY  xEffect  [GEN]	feels close to PersonY
+PersonX huffs and puffs  xIntent  [GEN]	to entertain
+PersonX marries his love  xReact  [GEN]	happy
+PersonX stops to check  xReact  [GEN]	curious
+PersonX meets his relatives  xIntent  [GEN]	to discuss his family
+PersonX tries to get the baby back  xWant  [GEN]	to pick up the baby
+PersonX will go on  xIntent  [GEN]	to get to know the other side
+PersonX begins to drink  xReact  [GEN]	full
+PersonX refuses to let PersonY go  xIntent  [GEN]	to protect PersonY
+PersonX remembers what happened last night  xReact  [GEN]	disappointed
+PersonX spends too much time on the phone  xEffect  [GEN]	is annoyed
+PersonX suffers at the beach  xWant  [GEN]	to be at the beach
+PersonX jumps from the train  xIntent  [GEN]	to escape
+PersonX is conflicted  xReact  [GEN]	hurt
+PersonX arrives home from trip  xEffect  [GEN]	is rested
+PersonX teaches PersonY about himself  HinderedBy  [GEN]	PersonX is afraid to speak to PersonY
+PersonX has stomachache  xEffect  [GEN]	has a panic attack
+PersonX sticks to his motto  xAttr  [GEN]	courageous
+PersonX is very confident  xReact  [GEN]	proud
+PersonX just married PersonY  xIntent  [GEN]	to help PersonY
+PersonX wants to visit the zoo  xNeed  [GEN]	to have a desire to visit the zoo
+PersonX receives and email  xEffect  [GEN]	is connected to the internet
+PersonX stops by PersonY's  xIntent  [GEN]	to see PersonY
+PersonX can't believe what he or she sees  HinderedBy  [GEN]	PersonX can't believe what he or she sees
+PersonX can clearly grasp it  xAttr  [GEN]	intelligent
+PersonX tells PersonY to keep it down  xIntent  [GEN]	to control PersonY
+PersonX launches the business  HinderedBy  [GEN]	PersonX can't get the money to pay the bill
+PersonX maintains a high learning rate  HinderedBy  [GEN]	PersonX is lazy
+PersonX posts his thoughts online  HinderedBy  [GEN]	PersonX is afraid to post his thoughts online
+PersonX and PersonY form a partnership  xIntent  [GEN]	to be the best and PersonY wants to be the best.
+PersonX tries something he or she has never done before  xAttr  [GEN]	spontaneous
+PersonX is a professor of psychology  HinderedBy  [GEN]	PersonX is afraid to talk to people
+PersonX agrees to the contract  xIntent  [GEN]	to work for the company
+PersonX was disappointed in PersonY  xEffect  [GEN]	and PersonY are no longer friends
+PersonX stops a bomb from going off  HinderedBy  [GEN]	PersonX is in the hospital
+PersonX is about to go somewhere  xAttr  [GEN]	adventurous
+PersonX introduces PersonY to the correct date  xReact  [GEN]	encouraged
+PersonX sings in a band  xWant  [GEN]	to be a singer
+PersonX makes a bargain  xWant  [GEN]	to make more money
+PersonX does not want to drink  xEffect  [GEN]	drinks at a restaurant
+PersonX takes things literally  xWant  [GEN]	to do things less crazy
+PersonX is made a partner  xEffect  [GEN]	is hired
+PersonX says no to a drink  xAttr  [GEN]	selfless
+PersonX likes both of these examples  xIntent  [GEN]	to have a good idea
+PersonX pulls the car over  xAttr  [GEN]	careless
+PersonX visits with a feeling of reunion  xNeed  [GEN]	to have feelings for PersonY
+PersonX stays for coffee  HinderedBy  [GEN]	PersonX is afraid to leave the house
+PersonX dresses as Batman  xReact  [GEN]	confident
+PersonX wants PersonY to know  xAttr  [GEN]	a nice guy
+PersonX agrees to testify against PersonY  xNeed  [GEN]	to be willing to testify
+PersonX is constantly excited  xEffect  [GEN]	is excited
+"PersonX is ""alone and grumbling""  xReact  [GEN]"	annoyed
+PersonX deals with PersonY in person  HinderedBy  [GEN]	PersonX is too shy to talk to PersonY
+PersonX faces the press  xIntent  [GEN]	to be in control
+PersonX puts away his suitcase  xEffect  [GEN]	remains safe
+PersonX’s friend is arrested  xReact  [GEN]	ashamed
+PersonX repairs an appliance  xEffect  [GEN]	is happy
+PersonX paints a pretty picture  xNeed  [GEN]	to have been up for painting
+PersonX demonstrates a photo  xReact  [GEN]	proud
+PersonX loses his wallet  xEffect  [GEN]	is upset
+PersonX found an old picture  HinderedBy  [GEN]	PersonX can't find the picture
+PersonX posts a note on PersonY's door  HinderedBy  [GEN]	PersonX is too shy to post a note
+PersonX goes to the Halloween party  HinderedBy  [GEN]	PersonX is allergic to Halloween
+PersonX starts to feel sorry  xEffect  [GEN]	feels more pain
+PersonX speaks calmly to PersonY  xNeed  [GEN]	to be polite
+PersonX celebrates PersonY's success  HinderedBy  [GEN]	PersonX can't feel PersonY's success
+PersonX drives over personY’s toes  xAttr  [GEN]	aggressive
+PersonX types out the proposal  xReact  [GEN]	satisfied
+PersonX spreads the news  xEffect  [GEN]	is praised by his family
+PersonX thinks about imprisonment  xReact  [GEN]	sad
+PersonX kisses PersonY's mouth  xIntent  [GEN]	to be able to communicate with PersonY
+PersonX makes a three-point turn  HinderedBy  [GEN]	PersonX can't cross the street
+PersonX contributes to household tasks  xWant  [GEN]	to be a handyman
+PersonX is a big talker  xEffect  [GEN]	is heard by a large crowd
+PersonX tells PersonY about his son  xAttr  [GEN]	honest
+PersonX explores PersonY’s body  xIntent  [GEN]	to see PersonY
+PersonX participates in a talent show  xNeed  [GEN]	to perform
+PersonX makes a reasonable suggestion  xAttr  [GEN]	rational
+PersonX accepts a dinner invitation from PersonY  xAttr  [GEN]	generous
+PersonX announces his party  xIntent  [GEN]	to impress his friends
+PersonX heads into the room  xReact  [GEN]	pleased
+PersonX asks PersonY to check a ballgame  HinderedBy  [GEN]	PersonX is afraid to touch a ball
+PersonX is sharp  xIntent  [GEN]	to be sharp
+PersonX runs 10 miles  xAttr  [GEN]	athletic
+PersonX attends an international congress  xReact  [GEN]	proud
+PersonX helps PersonY choose a site  xNeed  [GEN]	to be available
+PersonX looks at PersonY's eyes  xIntent  [GEN]	to understand PersonY
+PersonX notices a white butterfly  xEffect  [GEN]	sees a butterfly
+PersonX destroys some electronics  xAttr  [GEN]	a destructive person
+PersonX bought a cake  xEffect  [GEN]	ate the cake
+PersonX posts it on the Internet  xAttr  [GEN]	creative
+PersonX takes an architectural tour  HinderedBy  [GEN]	PersonX can't find the right place to take the tour
+PersonX recognizes PersonY's wishes  xEffect  [GEN]	loves PersonY
+PersonX decides to go to the park  xIntent  [GEN]	to spend time with his friends
+PersonX attends class  xIntent  [GEN]	to be the center of attention
+PersonX decides to be generous  xIntent  [GEN]	to make a difference
+PersonX meets two new friends  xAttr  [GEN]	outgoing
+PersonX suggests alternative  HinderedBy  [GEN]	PersonX doesn't like alternative
+PersonX agrees to move in with PersonY  xAttr  [GEN]	open-minded
+PersonX posts on PersonY's journal  xAttr  [GEN]	interesting
+PersonX runs on a treadmill  xAttr  [GEN]	energetic
+PersonX does drugs  xReact  [GEN]	guilty
+PersonX gets really mad  xEffect  [GEN]	is very upset
+PersonX reads the next chapter  xReact  [GEN]	anxious
+PersonX faints in PersonY's presence  xReact  [GEN]	upset
+PersonX does not like to show anger  xAttr  [GEN]	peaceful
+PersonX kisses PersonY on the cheek  xReact  [GEN]	sexy
+PersonX cleans up the leaves  xIntent  [GEN]	to be tidy
+PersonX adopts a child  HinderedBy  [GEN]	PersonX is too afraid to adopt a child
+PersonX loses her suitcase  xReact  [GEN]	frustrated
+PersonX reacts to police officer  xWant  [GEN]	to find a lawyer
+PersonX loses her fortune  xWant  [GEN]	to have money
+PersonX has a nightmare about what PersonY said  xWant  [GEN]	to tell PersonY what she said
+PersonX tells PersonY to stop  xIntent  [GEN]	PersonY to stop wasting money
+PersonX edits PersonY's manuscript  HinderedBy  [GEN]	PersonX can't find the paper
+PersonX avoids taking action  xReact  [GEN]	anxious
+PersonX really loses it  xAttr  [GEN]	irresponsible
+PersonX helps person Y with his work  xIntent  [GEN]	to help person Y
+PersonX has a reputation for philanthropy  xWant  [GEN]	to donate money
+PersonX shows PersonY something  xEffect  [GEN]	is thanked by PersonY
+PersonX found PersonY annoying  xWant  [GEN]	to make PersonY happy
+PersonX and PersonY have good chemistry  xReact  [GEN]	proud
+PersonX values PersonY’s relationship  xEffect  [GEN]	feels better about PersonY
